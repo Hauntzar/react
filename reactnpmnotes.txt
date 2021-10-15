@@ -1,0 +1,10 @@
+npm notes
+
+npm create-react-app tutorial
+cd tutorial
+npm init
+npm install bootstrap -g
+npm install // this installs all dependencies needed
+
+npm start
+npm run-script build
